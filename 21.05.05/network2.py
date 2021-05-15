@@ -38,4 +38,4 @@ def solution(n, computers):
         if i not in visited:
             BFS(i)
             answer += 1
-    return answer
+    return answerr
